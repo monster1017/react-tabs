@@ -21,7 +21,7 @@ const App = () => (
             <NavLink className="nav-link" to="/users">Users</NavLink>
           </li>
           <li className="nav-list__item">
-            <NavLink className="nav-link" to="/posts">Blog posts</NavLink>
+            <NavLink className="nav-link" to="/posts">Blog</NavLink>
           </li>
         </ul>
       </header>
